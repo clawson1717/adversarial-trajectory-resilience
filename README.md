@@ -1,5 +1,7 @@
 # Adversarial Trajectory Resilience
 
+![Step 13](https://img.shields.io/badge/Step-13%20%F0%9F%8F%B7%20DONE-brightgreen) ![Tests](https://img.shields.io/badge/Tests-203%20%F0%9F%9A%A8%20passing-green)
+
 A framework for detecting, managing, and recovering from adversarial failures in LLM-based reasoning trajectories. It models reasoning chains as directed graphs, classifies failure modes in real-time, dynamically allocates compute budget across trajectory branches, and enforces verification checkpoints before committing to high-risk paths.
 
 ## Architecture
